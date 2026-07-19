@@ -118,6 +118,25 @@ python assistant.py
 
 ---
 
+## 🎤 Demo Commands
+
+```text
+🎙️ User: Play Believer
+🤖 COCO: Playing Believer on YouTube.
+
+🎙️ User: What's the time?
+🤖 COCO: It's 10:35 AM.
+
+🎙️ User: Who is Elon Musk?
+🤖 COCO: Elon Musk is a business magnate and entrepreneur...
+
+🎙️ User: Open Chrome
+🤖 COCO: Opening Chrome.
+
+🎙️ User: Tell me a joke
+🤖 COCO: Why don't programmers like nature? It has too many bugs!
+```
+
 ## Contributing
 
 Contributions, suggestions, and improvements are welcome.
