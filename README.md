@@ -52,7 +52,6 @@ COCO-Voice-Assistant/
 Make sure you have **Python 3.11 or later** installed on your machine.
 
 **Installation**
-
  Clone the repository:
 
  ```bash
@@ -61,7 +60,6 @@ Make sure you have **Python 3.11 or later** installed on your machine.
  ```
 
  Create a virtual environment:
-
  ```bash
  python -m venv venv
  ```
