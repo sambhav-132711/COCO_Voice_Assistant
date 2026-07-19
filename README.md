@@ -52,8 +52,8 @@ COCO-Voice-Assistant/
 Make sure you have **Python 3.11 or later** installed on your machine.
 
 **Installation**
- Clone the repository:
 
+ Clone the repository:
  ```bash
  git clone https://github.com/YOUR_USERNAME/COCO-Voice-Assistant.git
  cd COCO-Voice-Assistant
