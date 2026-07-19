@@ -6,14 +6,14 @@ COCO is a Python-based personal voice assistant that helps users perform everyda
 
 ## Features
 
-- ** Play Music:** Play your favorite songs directly on YouTube using voice commands.
-- ** Google Search:** Search Google instantly without opening a browser manually.
-- ** Wikipedia Search:** Get concise information about people, places, and topics from Wikipedia.
-- ** Time Assistant:** Ask for the current time and receive a spoken response.
-- ** Joke Generator:** Listen to random jokes for entertainment.
-- ** Open Applications:** Launch Google Chrome and Visual Studio Code using voice commands.
-- ** Speech Recognition:** Understand and process user voice commands.
-- ** Text-to-Speech:** Respond naturally using an offline speech engine.
+- **Play Music:** Play your favorite songs directly on YouTube using voice commands.
+- **Google Search:** Search Google instantly without opening a browser manually.
+- **Wikipedia Search:** Get concise information about people, places, and topics from Wikipedia.
+- **Time Assistant:** Ask for the current time and receive a spoken response.
+- **Joke Generator:** Listen to random jokes for entertainment.
+- **Open Applications:** Launch Google Chrome and Visual Studio Code using voice commands.
+- **Speech Recognition:** Understand and process user voice commands.
+- **Text-to-Speech:** Respond naturally using an offline speech engine.
 
 ---
 
