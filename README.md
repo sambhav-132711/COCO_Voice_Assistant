@@ -53,38 +53,38 @@ Make sure you have **Python 3.11 or later** installed on your machine.
 
 **Installation**
 
-Clone the repository:
+ Clone the repository:
 
-```bash
-git clone https://github.com/YOUR_USERNAME/COCO-Voice-Assistant.git
-cd COCO-Voice-Assistant
-```
+ ```bash
+ git clone https://github.com/YOUR_USERNAME/COCO-Voice-Assistant.git
+ cd COCO-Voice-Assistant
+ ```
 
-Create a virtual environment:
+ Create a virtual environment:
 
-```bash
-python -m venv venv
-```
+ ```bash
+ python -m venv venv
+ ```
 
-Activate the virtual environment
+ Activate the virtual environment
 
 **Windows**
 
-```bash
-venv\Scripts\activate
-```
+ ```bash
+ venv\Scripts\activate
+ ```
 
-Install the required dependencies:
+ Install the required dependencies:
 
-```bash
-pip install -r requirements.txt
-```
+ ```bash
+ pip install -r requirements.txt
+ ```
 
-Run the assistant:
+ Run the assistant:
 
-```bash
-python assistant.py
-```
+ ```bash
+ python assistant.py
+ ```
 
 ---
 
